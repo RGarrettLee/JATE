@@ -4,7 +4,7 @@
 
 JATE is a text editor PWA that can be used online from any device, while also installable to continue to be used without network connectivity to continue getting whatever is on your mind out there
 
-[Test out the PWA here!]()
+[Test out the PWA here!](https://text-editor-pwa-jate.herokuapp.com/)
 
 ## Table of Contents:
 - [Installation](#installation)
